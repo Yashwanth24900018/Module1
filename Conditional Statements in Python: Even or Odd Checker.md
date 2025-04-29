@@ -22,8 +22,7 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## Output
 
-    Enter a number: 8
-    8 is Even
+   ![Screenshot 2025-04-29 111306](https://github.com/user-attachments/assets/33a39b67-f91c-49e5-878e-ec21f568f146)
 
 
 ## Result
