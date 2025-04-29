@@ -24,6 +24,9 @@ To write a Python program to check whether the given number is **even** or **odd
 
    ![Screenshot 2025-04-29 111306](https://github.com/user-attachments/assets/33a39b67-f91c-49e5-878e-ec21f568f146)
 
+## Name:Yashwanth.asv
+## reg no: 21224230309
+
 
 ## Result
 
